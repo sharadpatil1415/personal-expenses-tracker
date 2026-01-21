@@ -1,0 +1,68 @@
+# Common dependencies and files to ignore
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.settings/
+.project
+.classpath
+
+# Build outputs
+target/
+build/
+dist/
+out/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Maven
+*.log
+dependency-reduced-pom.xml
+
+# Python
+venv/
+env/
+.env
+*.egg-info/
+.eggs/
+pip-log.txt
+
+# C++
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.a
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Exports
+exports/
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Logs
+logs/
+*.log
