@@ -17,12 +17,12 @@ A **production-grade, multi-language expense tracking system** demonstrating pol
 
 ## 🛠️ Tech Stack
 
-| **Frontend** | React 19, Vite, Tailwind | User Interface |
-| **Backend** | Java 17, Spring Boot 3.2 | REST API, Business Logic |
-| **Database** | H2 / MySQL | Data Persistence |
-| **Analytics** | Python 3.8+, Pandas, Flask | Data Analysis, ML Insights |
-| **Performance** | C++17, CMake | High-speed Calculations |
-| **Security** | Spring Security, JWT | Authentication |
+ - **Frontend** - React 19, Vite, Tailwind | User Interface |
+ - **Backend** - Java 17, Spring Boot 3.2 | REST API, Business Logic |
+ - **Database** - H2 / MySQL | Data Persistence |
+ - **Analytics** - Python 3.8+, Pandas, Flask | Data Analysis, ML Insights |
+ - **Performance** - C++17, CMake | High-speed Calculations |
+ - **Security** - Spring Security, JWT | Authentication |
 
 ## 🚀 Quick Start
 
