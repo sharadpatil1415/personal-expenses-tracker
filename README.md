@@ -1,3 +1,4 @@
+# readme file created using AI for better undestanding of project
 # Personal Expense Tracker 💰
 
 A **production-grade, multi-language expense tracking system** demonstrating polyglot architecture with Java, Python, and C++. This project showcases enterprise-level design patterns, clean architecture, and cross-language integration.
